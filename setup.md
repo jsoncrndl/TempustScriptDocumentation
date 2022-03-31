@@ -17,9 +17,9 @@ The scripting directory is where you will save the scripts you write. This can b
 ## Replacing the encryption key
 In the folder containing the asset, open the file named "TSEncryption.cs". Near the top of the file, note the following line:
 
-    ```
-    private static string key = ""
-    ```
+```
+private static string key = ""
+```
 
 To add protection to your files, you will want to update the encryption key. In the Tempust Script Window, click the "generate key" button to generate a new key. Select and copy the key, or press the copy button, then paste the new key in the TSEncryption file.
 
