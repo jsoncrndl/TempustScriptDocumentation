@@ -8,7 +8,6 @@ Tempust Script is a scripting language designed for Unity. It provides an easy w
 ## Support
 For support, visit ___ or email support@tempustgames.com
 
-
 ## Table of Contents
 * [Language Overview](syntax.md)
     * Commands:
