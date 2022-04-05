@@ -1,0 +1,101 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Tempust Script
+  version: 1.0
+  folders:
+  - title: Language Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Syntax Overview
+      url: /syntax.html
+      output: web, pdf
+      type: homepage
+      subfolders:
+      - title: Commands
+        output: web, pdf
+        subfolderitems:
+
+        - title: Enable / Disable
+          url: /enable.html
+          output: web, pdf
+
+        - title: End
+          url: /end.html
+          output: web, pdf
+
+        - title: Goto
+          url: /goto.html
+          output: web, pdf
+
+        - title: Say
+          url: /say.html
+          output: web, pdf
+
+        - title: Setflag
+          url: /setflag.html
+          output: web, pdf
+
+        - title: Wait
+          url: /wait.html
+          output: web, pdf
+
+        - title: Walk / Run
+          url: /move.html
+          output: web, pdf
+
+        - title: Bgm
+          url: /unimplemented.html#bgm
+          output: web, pdf
+        - title: Give
+          url: /unimplemented.html#give
+          output: web, pdf
+        - title: Playsound
+          url: /unimplemented.html#playsound
+          output: web, pdf
+        - title: Portrait  
+          url: /unimplemented.html#portrait
+          output: web, pdf
+
+      - title: Blocks
+        output: web
+        subfolderitems:
+
+        - title: Say
+          url: /say.html
+          output: web, pdf
+
+        - title: Ask / Opt
+          url: /ask.html
+          output: web, pdf
+
+        - title: If
+          url: /conditional.html
+          output: web, pdf
+    - title: Regions
+      output: web, pdf
+      url: /region.html
+  - title: Unity Implementation
+    output: web, pdf
+    folderitems:
+    
+    - title: Setup Guide
+      output: web, pdf
+      url: /setup.html
+    - title: Customize Implementation
+      output: web, pdf
+      url: /implementation.html
+    - title: Unimplemented Commands
+      output: web, pdf
+      url: /unimplemented.html
+    - title: GameStateManager
+      output: web, pdf
+      url: /gamestatemanager.html
+    - title: ScriptHolder
+      output: web, pdf
+      url: /scriptholder.html
+    - title: TSScript
+      output: web, pdf
+      url: /tsscript.html
