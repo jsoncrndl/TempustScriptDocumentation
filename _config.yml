@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 repository: jsoncrndl/tempustscriptdocumentation
 
 output: web
@@ -115,6 +114,3 @@ github: [metadata]
 
 
 # Copyright 2021 Google LLC
-=======
-theme: jekyll-theme-slate
->>>>>>> 96a41f717d2261f99d718fea181d940a3a057c29
