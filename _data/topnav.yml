@@ -6,4 +6,6 @@ topnav:
     - title: Getting Started
       url: /setup.html
     - title: Forums
-      external_url: https:tempustgames.itch.io/tempust-script/community
+      external_url: https://tempustgames.itch.io/tempust-script/community
+    - title: Asset Store
+      url: https://assetstore.unity.com/

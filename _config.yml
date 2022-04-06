@@ -1,4 +1,4 @@
-repository: jsoncrndl/tempustscriptdocumentation
+repository:
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -35,10 +35,10 @@ exclude:
 
 feedback_subject_line:
 
-feedback_email:
+feedback_email: feedback@tempustgames.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-feedback_disable: true
+feedback_disable: false
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
