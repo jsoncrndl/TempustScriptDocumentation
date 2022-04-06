@@ -6,6 +6,7 @@ summary: "Attach Tempust Script scripts to Unity game objects"
 sidebar: tempustscript_sidebar
 permalink: scriptholder.html
 folder: tempustscript
+toc: false
 ---
 
 # The ScriptHolder Component

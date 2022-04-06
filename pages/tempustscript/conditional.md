@@ -6,6 +6,7 @@ summary: "Change script execution based on conditional statements"
 sidebar: tempustscript_sidebar
 permalink: conditional.html
 folder: tempustscript
+toc: false
 ---
 
 # Conditional Blocks

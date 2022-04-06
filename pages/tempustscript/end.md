@@ -6,6 +6,7 @@ summary: "Ends the current script"
 sidebar: tempustscript_sidebar
 permalink: end.html
 folder: tempustscript
+toc: false
 ---
 
 # Ending a Script

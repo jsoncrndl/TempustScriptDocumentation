@@ -6,6 +6,7 @@ summary: "Tempust Script syntax overview"
 sidebar: tempustscript_sidebar
 permalink: syntax.html
 folder: tempustscript
+toc: false
 ---
 
 # Language Overview

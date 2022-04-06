@@ -6,6 +6,7 @@ summary: "The component that manages save flags"
 sidebar: tempustscript_sidebar
 permalink: gamestatemanager.html
 folder: tempustscript
+toc: false
 ---
 
 # The GameStateManager Component

@@ -6,6 +6,7 @@ summary: "Customize the functionality of commands"
 sidebar: tempustscript_sidebar
 permalink: implementation.html
 folder: tempustscript
+toc: false
 ---
 
 # Customizing Unity Implementation

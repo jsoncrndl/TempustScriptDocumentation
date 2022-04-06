@@ -6,6 +6,7 @@ summary: "Set global and local save flags"
 sidebar: tempustscript_sidebar
 permalink: setflag.html
 folder: tempustscript
+toc: false
 ---
 
 # Flags and the "setflag" command

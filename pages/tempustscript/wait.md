@@ -6,6 +6,7 @@ summary: "Pause the script for some number of seconds"
 sidebar: tempustscript_sidebar
 permalink: wait.html
 folder: tempustscript
+toc: false
 ---
 
 # The "wait" Command

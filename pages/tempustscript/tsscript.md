@@ -6,6 +6,7 @@ summary: "The c# class representing the .tmpst script"
 sidebar: tempustscript_sidebar
 permalink: tsscript.html
 folder: tempustscript
+toc: false
 ---
 
 # TSScript files

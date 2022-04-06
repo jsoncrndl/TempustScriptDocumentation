@@ -6,6 +6,7 @@ summary: "Set an object's position"
 sidebar: tempustscript_sidebar
 permalink: setpos.html
 folder: tempustscript
+toc: false
 ---
 
 # The "setpos" Command

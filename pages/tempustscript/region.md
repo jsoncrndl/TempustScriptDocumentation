@@ -6,6 +6,7 @@ summary: "Regions syntax and usage"
 sidebar: tempustscript_sidebar
 permalink: region.html
 folder: tempustscript
+toc: false
 ---
 
 # Regions

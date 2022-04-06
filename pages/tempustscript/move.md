@@ -6,6 +6,7 @@ summary: "Make an object move to a location over time"
 sidebar: tempustscript_sidebar
 permalink: move.html
 folder: tempustscript
+toc: false
 ---
 
 # The "walk" and "run" Commands

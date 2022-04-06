@@ -6,6 +6,7 @@ summary: "Enable and disable game objects"
 sidebar: tempustscript_sidebar
 permalink: enable.html
 folder: tempustscript
+toc: false
 ---
 
 # The "enable" and "disable" Commands

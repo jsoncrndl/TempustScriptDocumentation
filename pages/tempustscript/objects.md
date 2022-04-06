@@ -4,8 +4,9 @@ tags: [objects, def, game objects]
 keywords:
 summary: "The ask block allows player to choose an option in a text box."
 sidebar: tempustscript_sidebar
-permalink: ask.html
+permalink: objects.html
 folder: tempustscript
+toc: false
 ---
 
 # Objects

@@ -6,6 +6,7 @@ summary: "Commands without default implementation"
 sidebar: tempustscript_sidebar
 permalink: unimplemented.html
 folder: tempustscript
+toc: false
 ---
 
 # Commands without Default Implementation

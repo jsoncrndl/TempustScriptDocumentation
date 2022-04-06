@@ -6,6 +6,7 @@ summary: "Tempust Script coordinate syntax"
 sidebar: tempustscript_sidebar
 permalink: objectcoords.html
 folder: tempustscript
+toc: false
 ---
 
 # Object Coordinates

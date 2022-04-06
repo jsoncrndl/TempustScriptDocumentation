@@ -6,6 +6,7 @@ summary: "Guide for setting up Tempust Script in a project"
 sidebar: tempustscript_sidebar
 permalink: setup.html
 folder: tempustscript
+toc: false
 ---
 
 # Setting up a Project for Tempust Script

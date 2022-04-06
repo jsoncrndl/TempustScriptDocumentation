@@ -6,6 +6,7 @@ summary: "Table of Contents"
 sidebar: tempustscript_sidebar
 permalink: index.html
 folder: tempustscript
+toc: false
 ---
 
 # Tempust Script Documentation

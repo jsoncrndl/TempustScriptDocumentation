@@ -6,6 +6,7 @@ summary: "End the current region and execute another"
 sidebar: tempustscript_sidebar
 permalink: goto.html
 folder: tempustscript
+toc: false
 ---
 
  The "goto" Command

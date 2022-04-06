@@ -6,6 +6,7 @@ summary: "Display text in a text box"
 sidebar: tempustscript_sidebar
 permalink: say.html
 folder: tempustscript
+toc: false
 ---
 
 # The "Say" Command and Block
