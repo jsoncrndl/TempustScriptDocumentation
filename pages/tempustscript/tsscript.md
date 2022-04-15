@@ -14,8 +14,9 @@ toc: false
 When compiled, a .tmpst file is made into a c# TSScript object. These objects contain information about the commands, blocks, regions, and objects needed for Unity. The TSScript class has methods for accessing this information during gameplay.
 
 ## Public Properties
+
 | Name | Type | Notes |
-| ---- | ----------- | ----- |
+| ---- | ---- | ----- |
 | holder | MonoBehaviour | The behaviour that holds the script and runs the coroutine. |
 | isRunning | bool | Returns whether the script is currently running. |
 | objects | List<string> | The list of objects defined in the script. Used to get the objects to assign in the script holder. |

@@ -44,4 +44,4 @@ A custom text box can be made using the TextBoxController component after the fa
 ## The Tempust Script Manager
 The last step is to create a GameObject to hold the the manager components. Create a new empty gameobject, then add the TSManager and GameStateManager components. If using a custom TSManager, attach that component instead.
 
-Now the project is ready for Tempust Script. Add the ScriptHolder component to any object, then assign the script in the inspector.
+Now the project is ready for Tempust Script. Add the ScriptHolder component to any object, assign the script in the inspector, then call ScriptHolder.Execute() to run the script.
