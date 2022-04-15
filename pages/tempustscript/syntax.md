@@ -4,7 +4,7 @@ tags: [getting_started, scripting, tempust, script]
 keywords:
 summary: "Tempust Script syntax overview"
 sidebar: tempustscript_sidebar
-permalink: tempustscript/syntax.html
+permalink: syntax.html
 folder: tempustscript
 toc: false
 ---
