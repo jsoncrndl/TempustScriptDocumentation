@@ -105,9 +105,6 @@ sidebars:
 description: "This site is provides documentation for Tempust Script. Tempust Script is a scripting language for Unity designed to make creating dialogue trees and save flags simple."
 # the description is used in the feed.xml file
 
-baseurl: /tempustscript
-
-
 github: [metadata]
 
 
