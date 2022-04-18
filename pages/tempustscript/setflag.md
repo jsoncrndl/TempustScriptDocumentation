@@ -33,6 +33,7 @@ To set a flag, use the setflag command. The scope should be either global or loc
     {
         say["Merchant"] "Please enjoy this free sample!"
         give potion 1
+        setflag local sample_given true
         say["none"] "You got a potion"
     }
     else
